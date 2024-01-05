@@ -1,0 +1,2 @@
+# NewsApp
+.Maui News App
